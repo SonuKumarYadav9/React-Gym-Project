@@ -1,10 +1,9 @@
-/* *{
+*{
     margin: 0;
     padding: 0;
 }
 
 .all-trainer{
-    background-color: rgb(105, 5, 5);
     display: flex;
     text-align: center;
     align-items: center;
@@ -13,7 +12,7 @@
     color: aliceblue;
 }
 .sonuImg{
-    height: 300px;
+    height: 500px;
     width: 450px;
 }
 
@@ -54,6 +53,13 @@ size: 100px;
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+}
+.trainers{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: black;
+    text-align: center;
+    color: rgb(242, 237, 237);
 }
 
 body {
