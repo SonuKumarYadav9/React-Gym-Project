@@ -1,0 +1,56 @@
+
+
+.head-text {
+    position: relative;
+ }
+ .head-image img{
+     width: 100%;
+ }
+ .text-on-image {
+    color:aliceblue;
+   position: absolute;
+   right: 10%;
+   left: 10%;
+   bottom: 15%;
+ }
+
+ .signUp{
+    background-color: white;
+    height: 40px;
+    width: 100px;
+    border-radius: 20%;
+    border: 1px solid red;
+ }
+ .view-detail{
+margin-left: 80px;
+    background-color: rgb(245, 11, 11);
+    height: 40px;
+    width: 100px;
+    border-radius:20%;
+    border: 1px solid rgb(245, 243, 243);
+ }
+ .regtext{
+    color:red
+  }
+  .text-on-image h3{
+    font-size: 110px;
+  }
+  .text-on-image{
+    padding-top: 100%;
+  }
+  .paragraph{
+    padding-top: 40px;
+    padding-bottom: 40px;
+  }
+  .head-image img{
+    height: 700px;
+  }
+
+  .text-on-image button:hover {
+    background: rgb(105, 14, 196);
+    }
+    
+
+ 
+
+ 
